@@ -1,54 +1,168 @@
+# 👋 Hello, I'm Pamalka Nethmani
+
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=IT+Undergraduate+at+SLIIT;Full+Stack+Developer;Mobile+App+Developer;Always+learning+new+things)](https://git.io/typing-svg)
+
+</div>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg" width = "100%">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg" width="100%">
 </picture>
+
+## 🚀 About Me
+
+```typescript
+const pamalka = {
+    pronouns: "She/Her",
+    code: ["JavaScript", "Java", "Kotlin", "Python", "C++", "PHP"],
+    askMeAbout: ["Web Development", "Mobile Development", "UI/UX Design"],
+    technologies: {
+        frontEnd: {
+            js: ["React", "HTML5", "CSS3", "Bootstrap"],
+            css: ["Tailwind CSS", "SASS"]
+        },
+        backEnd: {
+            js: ["Node.js", "Express.js"],
+            java: ["Spring Boot"],
+            php: ["Laravel"]
+        },
+        mobileApp: {
+            android: ["Kotlin", "Android Studio"]
+        },
+        databases: ["MongoDB", "MySQL", "PostgreSQL"],
+        tools: ["Git", "Docker", "Postman", "Figma", "Photoshop"]
+    },
+    currentFocus: "Building scalable web applications with MERN Stack",
+    funFact: "I debug with console.log() and I'm not ashamed of it! 🐛"
+};
+```
+
+## 📊 Current Status
+
+```yaml
+🎓 Education: IT Undergraduate at SLIIT
+🔭 Currently Working On: ITP Project & Personal Portfolio
+🌱 Learning: Kotlin for Android Development & Advanced React Patterns
+👯 Looking to Collaborate On: Open Source Projects & Web Applications
+💬 Ask Me About: Full Stack Development, UI/UX Design, Problem Solving
+📫 Reach Me At: nethmanipamalka@gmail.com
+⚡ Fun Fact: I can turn coffee into code!
+```
+
+## 🛠️ Tech Stack & Tools
+
 <div align="center">
-<img  width="15%"  src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif"  />
 
-<h1 align="center">Hi 👋, I'm Pamalka Nethmani</h1>
-<h3 align="center">A passionate IT undergraduate at SLIIT</h3>
+### 💻 Programming Languages
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
+### 🌐 Frontend Development
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-- 🔭 I’m currently working on **ITP Project**
+### ⚙️ Backend Development
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
-- 🌱 I’m currently learning **Kotlin** and **MERN Stack**
+### 📱 Mobile Development
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
 
-- 👨‍💻 I am undergraduate at SLIIT
+### 🛠️ Tools & Technologies
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Photoshop](https://img.shields.io/badge/Adobe_Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
-- 💬 Ask me about **Web Development**
+</div>
 
-- 📫 How to reach me **nethmanipamalka@gmail.com**
+## 📈 GitHub Analytics
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Nethmani&label=Profile%20views&color=0e75b6&style=flat" alt="nethmani" /> </p>
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Nethmani&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nethmani&layout=compact&langs_count=8&theme=tokyonight"/>
+</div>
 
-<img width="100%"  src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif"/>
-<h3 align="center">Connect with me:</h3>
-<p align="center">
-<a href="https://linkedin.com/in/pamalkanethmani" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" alt="Nethmani" height="50" width="50" /></a>
-<a href="https://fb.com/pamalkanethmani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Nethmani" height="50" width="50" /></a>
-<a href="https://instagram.com/pamalkanethmani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Nethmani" height="50" width="50" /></a>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nethmani&theme=tokyonight" alt="GitHub Streak"/>
+</div>
 
-<img width="100%"  src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" />
+## 🏆 GitHub Trophies
 
-<h3 align="center">Languages and Tools:</h3>
-<img width="20%" align="left" src="https://user-images.githubusercontent.com/74038190/216656993-2f7ade25-348a-4925-95a8-fba437ed9bcd.gif" />
-<img width="25%" align="right" src="https://user-images.githubusercontent.com/74038190/216658117-5a5c9ab7-7319-4ffa-9e64-79d6bf0fb8d1.gif" />
-<p align="center"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/AndroidStudio-Light.svg" alt="android" width="50" height="50"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Arduino.svg" alt="arduino" width="50" height="50"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bootstrap.svg" alt="bootstrap" width="50" height="50"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/C.svg" alt="c" width="50" height="50"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CPP.svg" alt="cplusplus" width="50" height="50"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" alt="css3" width="50" height="50"/> </a><br> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/ExpressJS-Light.svg" alt="express" width="50" height="50"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" alt="git" width="50" height="50"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" alt="html5" width="50" height="50"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Light.svg" alt="java" width="50" height="50"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" alt="javascript" width="50" height="50"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Kotlin-Light.svg" alt="kotlin" width="50" height="50"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MongoDB.svg" alt="mongodb" width="50" height="50"/> </a><br> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Light.svg" alt="mysql" width="50" height="50"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Light.svg" alt="nodejs" width="50" height="50"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Photoshop.svg" alt="photoshop" width="50" height="50"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PHP-Light.svg" alt="php" width="50" height="50"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Light.svg" alt="python" width="50" height="50"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Light.svg" alt="react" width="50" height="50"/> </a> </p>
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Nethmani&theme=tokyonight&row=2&column=4&margin-w=10&margin-h=15&no-bg=true" alt="GitHub Trophies"/>
+</div>
 
-
-<img width="100%"  src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" />
-
-### <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='25' /> My Github Stats:
-
-|  <img width="450em" src="https://github-profile-trophy.vercel.app/?username=Nethmani&theme=onestar&row=2&column=4&margin-w=10&margin-h=15&no-bg=true)](https://github.com/Nethmani/github-profile-trophy"> | <img  width="450em" src="https://github-readme-stats.vercel.app/api/top-langs?username=Nethmani&show_icons=true&locale=en&layout=compact&theme=vue-dark" alt="Nethmani's Most used lang" /> |
-| :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-|                                           <img  width="450em"   src="https://streak-stats.demolab.com?user=Nethmani&theme=vue-dark" alt="Vikash2806 Streak" />                                           |  <img width="450em" align="center" alt=" Github stats"  src="https://github-readme-stats.vercel.app/api?username=Nethmani&show_icons=true&count_private=true&theme=vue-dark" />   |
-
+## 📊 Weekly Development Breakdown
 
 <!--START_SECTION:waka-->
-
 <!--END_SECTION:waka-->
 
-<img width="100%"  src="https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif" />
+## 🎯 2024 Goals
+
+- [ ] Complete ITP Project with distinction
+- [ ] Master MERN Stack development
+- [ ] Build 5 full-stack projects
+- [ ] Contribute to 3 open-source projects
+- [ ] Learn cloud technologies (AWS/Azure)
+- [ ] Develop mobile applications with Kotlin
+
+## 🚀 Featured Projects
+
+<div align="center">
+
+| Project | Description | Tech Stack | Links |
+|---------|------------|------------|-------|
+| 🌟 **ITP Project** | Current academic project | MERN Stack | [Demo](#) \| [Code](#) |
+| 📱 **Mobile App** | Android application | Kotlin, Firebase | [Play Store](#) \| [Code](#) |
+| 💼 **Portfolio** | Personal portfolio website | React, Tailwind CSS | [Live](#) \| [Code](#) |
+
+</div>
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/pamalkanethmani)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://fb.com/pamalkanethmani)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/pamalkanethmani)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nethmanipamalka@gmail.com)
+
+</div>
+
+## 💡 Random Dev Quote
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
+</div>
+
+## 🎵 Spotify Playing
+
+<div align="center">
+  <img src="https://spotify-github-profile.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff" alt="Spotify Playing" width="350"/>
+</div>
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Nethmani&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  
+  **✨ Thanks for visiting my profile! Let's build something amazing together! ✨**
+</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
+</div>
