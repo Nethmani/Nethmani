@@ -6,19 +6,19 @@
 <div align="center">
 <img  width="15%"  src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif"  />
 
-<h1 align="center">Hi 👋, I'm Pamalka Nethmani</h1>
-<h3 align="center">A passionate IT undergraduate at SLIIT</h3>
+<h1 align="center">Hi there 👋, I'm Pamalka Nethmani</h1>
+<h3 align="center">🚀 Passionate IT undergraduate at SLIIT | 💼 Software Engineering Intern @ Habib Bank</h3>
 
+---
 
-- 🔭 I’m currently working on **ITP Project**
+### 👩‍💻 About Me
 
-- 🌱 I’m currently learning **Kotlin** and **MERN Stack**
-
-- 👨‍💻 I am undergraduate at SLIIT
-
-- 💬 Ask me about **Web Development**
-
-- 📫 How to reach me **nethmanipamalka@gmail.com**
+- 🎓 Undergraduate at **SLIIT**
+- 💼 Currently interning as a **Software Engineer & IT Supporter** at **Habib Bank**
+- 🔭 Working on: `ITP Project`, `Kotlin`, and the `MERN Stack`
+- 🧠 Learning about **Full-Stack Development**, **UI/UX Design**, and **Cloud Deployment**
+- 💬 Ask me about **Web Development**, **JavaScript**, **React**, or **Linux setups**
+- 📫 Reach me at: **nethmanipamalka@gmail.com**
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Nethmani&label=Profile%20views&color=0e75b6&style=flat" alt="nethmani" /> </p>
 
