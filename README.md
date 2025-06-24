@@ -1,53 +1,202 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg" width = "100%">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg" width="100%">
 </picture>
-<div align="center">
-<img  width="15%"  src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif"  />
 
-<h1 align="center">Hi there 👋, I'm Pamalka Nethmani</h1>
-<h3 align="center">🚀 Passionate IT undergraduate at SLIIT | 💼 Software Engineering Intern @ Habib Bank</h3>
+<div align="center">
+<img width="15%" src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" />
+
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Pamalka+Nethmani!;" />
+</h1>
+
+<h3 align="center">🚀 Passionate IT Undergraduate | 💼 Software Engineering Intern @ Habib Bank Limited | 🌟 Full-Stack Developer</h3>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+</div>
+
+## 🙋‍♀️ About Me
+
+```javascript
+const pamalka = {
+    pronouns: "She/Her",
+    currentRole: "Software Engineering Intern @ Habib Bank Limited",
+    education: "IT Undergraduate @ SLIIT",
+    currentFocus: ["Full-Stack Development", "Mobile Development", "Cloud Technologies"],
+    technologies: {
+        frontend: ["React", "HTML5", "CSS3", "Bootstrap", "JavaScript"],
+        backend: ["Node.js", "Express.js", "PHP"],
+        mobile: ["Kotlin", "Android Studio"],
+        databases: ["MongoDB", "MySQL"],
+        tools: ["Git", "Photoshop", "Arduino"],
+        languages: ["JavaScript", "Java", "Python", "C/C++", "Kotlin", "PHP"]
+    },
+    currentProjects: ["ITP Project", "MERN Stack Applications"],
+    learningNext: ["React Native", "AWS", "Docker", "TypeScript"],
+    askMeAbout: ["Web Development", "Mobile Development", "UI/UX Design", "Linux"],
+    funFact: "I love turning coffee into code! ☕→💻"
+};
+```
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## 🚀 What I'm Up To
+
+- 🔭 **Currently Working On:** Building innovative projects with the MERN stack and exploring Kotlin for mobile development
+- 🌱 **Learning:** Advanced React patterns, Cloud deployment strategies, and modern UI/UX principles  
+- 👯 **Looking to Collaborate:** Open source projects, web applications, and mobile app development
+- 💬 **Ask Me About:** JavaScript ecosystems, React best practices, database design, or setting up development environments
+- 📫 **Reach Me:** [nethmanipamalka@gmail.com](mailto:nethmanipamalka@gmail.com)
+- ⚡ **Fun Fact:** When I'm not coding, you'll find me exploring new tech trends or designing user interfaces!
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## 🌐 Connect With Me
+
+<div align="center">
+<a href="https://linkedin.com/in/pamalkanethmani" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="https://fb.com/pamalkanethmani" target="_blank">
+<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+</a>
+<a href="https://instagram.com/pamalkanethmani" target="_blank">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+</a>
+<a href="mailto:nethmanipamalka@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+### Frontend Development
+<img src="https://skillicons.dev/icons?i=react,html,css,js,bootstrap" />
+
+### Backend Development  
+<img src="https://skillicons.dev/icons?i=nodejs,express,php,python" />
+
+### Mobile Development
+<img src="https://skillicons.dev/icons?i=kotlin,androidstudio,java" />
+
+### Databases
+<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+
+### Tools & Technologies
+<img src="https://skillicons.dev/icons?i=git,photoshop,arduino,c,cpp" />
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+### 🏆 GitHub Trophies
+<img src="https://github-profile-trophy.vercel.app/?username=Nethmani&theme=algolia&no-frame=true&no-bg=false&margin-w=4&row=2&column=4" alt="GitHub Trophies" />
+
+</div>
+
+<br/>
+
+<div align="center">
+<table>
+<tr>
+<td width="50%">
+
+### 📈 GitHub Stats
+<img src="https://github-readme-stats.vercel.app/api?username=Nethmani&show_icons=true&count_private=true&hide_border=true&title_color=58a6ff&icon_color=79c0ff&text_color=c9d1d9&bg_color=0d1117&border_radius=15" alt="Pamalka's GitHub Stats" />
+
+</td>
+<td width="50%">
+
+### 🔥 GitHub Streak
+<img src="https://streak-stats.demolab.com?user=Nethmani&theme=dark&hide_border=true&border_radius=15&background=0D1117&ring=58a6ff&fire=79c0ff&currStreakLabel=79c0ff&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9" alt="Pamalka's GitHub Streak" />
+
+</td>
+</tr>
+</table>
+</div>
+
+<br/>
+
+<div align="center">
+
+### 💻 Most Used Languages
+<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nethmani&layout=compact&hide_border=true&title_color=58a6ff&text_color=c9d1d9&bg_color=0d1117&border_radius=15&langs_count=8" alt="Top Languages" />
+
+</div>
+
+<br/>
+
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## 📈 Contribution Graph
+
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Nethmani&custom_title=Pamalka's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=00b4d8&line=00b8a9&point=00d9ff&area_color=FFFFFF&title_color=FFFFFF&area=true" alt="GitHub Activity Graph" />
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## 🎯 Current Goals
+
+- 🔥 **2025 Objectives:**
+  - Master advanced React patterns and state management
+  - Deploy 5+ full-stack applications to production
+  - Contribute to 10+ open source projects
+  - Learn cloud technologies (AWS/Azure)
+  - Build a comprehensive mobile app with Kotlin
+
+<div align="center">
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random Dev Quote" />
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## 💼 Experience & Projects
+
+**🏢 Software Engineering Intern @ Habib Bank Limited**
+- Currently developing and maintaining enterprise-level banking applications
+- Implementing secure financial software solutions and APIs
+- Providing comprehensive IT support and system optimization
+- Working with modern development frameworks in a professional banking environment
+- Collaborating with cross-functional teams on digital transformation projects
+
+**🔬 Final Year Research Project @ SLIIT**
+- Research Topic: .....
+- Conducting in-depth research on cutting-edge technologies
+- Developing innovative solutions to real-world problems
+- Literature review and implementation of novel algorithms/systems
+- Preparing for publication and presentation at academic conferences
+
+**🎓 Academic Projects @ SLIIT**
+- ITP Project: Full-stack web application development
+- Mobile app development using Kotlin
+- Database design and implementation projects
+- Software engineering methodologies and best practices
+
+<div align="center">
+
+### 👀 Profile Views
+<img src="https://komarev.com/ghpvc/?username=Nethmani&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+
+### ⭐ Thanks for visiting! ⭐
+
+<img src="https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif" width="100%" />
 
 ---
 
-### 👩‍💻 About Me
+<div align="center">
+<i>⚡ "Code is like humor. When you have to explain it, it's bad." – Cory House ⚡</i>
+</div>
 
-- 🎓 Undergraduate at **SLIIT**
-- 💼 Currently interning as a **Software Engineer & IT Supporter** at **Habib Bank**
-- 🔭 Working on: `ITP Project`, `Kotlin`, and the `MERN Stack`
-- 🧠 Learning about **Full-Stack Development**, **UI/UX Design**, and **Cloud Deployment**
-- 💬 Ask me about **Web Development**, **JavaScript**, **React**, or **Linux setups**
-- 📫 Reach me at: **nethmanipamalka@gmail.com**
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Nethmani&label=Profile%20views&color=0e75b6&style=flat" alt="nethmani" /> </p>
-
-<img width="100%"  src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif"/>
-<h3 align="center">Connect with me:</h3>
-<p align="center">
-<a href="https://linkedin.com/in/pamalkanethmani" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" alt="Nethmani" height="50" width="50" /></a>
-<a href="https://fb.com/pamalkanethmani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Nethmani" height="50" width="50" /></a>
-<a href="https://instagram.com/pamalkanethmani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Nethmani" height="50" width="50" /></a>
-
-<img width="100%"  src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" />
-
-<h3 align="center">Languages and Tools:</h3>
-<img width="20%" align="left" src="https://user-images.githubusercontent.com/74038190/216656993-2f7ade25-348a-4925-95a8-fba437ed9bcd.gif" />
-<img width="25%" align="right" src="https://user-images.githubusercontent.com/74038190/216658117-5a5c9ab7-7319-4ffa-9e64-79d6bf0fb8d1.gif" />
-<p align="center"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/AndroidStudio-Light.svg" alt="android" width="50" height="50"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Arduino.svg" alt="arduino" width="50" height="50"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bootstrap.svg" alt="bootstrap" width="50" height="50"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/C.svg" alt="c" width="50" height="50"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CPP.svg" alt="cplusplus" width="50" height="50"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" alt="css3" width="50" height="50"/> </a><br> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/ExpressJS-Light.svg" alt="express" width="50" height="50"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" alt="git" width="50" height="50"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" alt="html5" width="50" height="50"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Light.svg" alt="java" width="50" height="50"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" alt="javascript" width="50" height="50"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Kotlin-Light.svg" alt="kotlin" width="50" height="50"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MongoDB.svg" alt="mongodb" width="50" height="50"/> </a><br> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Light.svg" alt="mysql" width="50" height="50"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Light.svg" alt="nodejs" width="50" height="50"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Photoshop.svg" alt="photoshop" width="50" height="50"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PHP-Light.svg" alt="php" width="50" height="50"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Light.svg" alt="python" width="50" height="50"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Light.svg" alt="react" width="50" height="50"/> </a> </p>
-
-
-<img width="100%"  src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" />
-
-### <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='25' /> My Github Stats:
-
-|  <img width="450em" src="https://github-profile-trophy.vercel.app/?username=Nethmani&theme=onestar&row=2&column=4&margin-w=10&margin-h=15&no-bg=true)](https://github.com/Nethmani/github-profile-trophy"> | <img  width="450em" src="https://github-readme-stats.vercel.app/api/top-langs?username=Nethmani&show_icons=true&locale=en&layout=compact&theme=vue-dark" alt="Nethmani's Most used lang" /> |
-| :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-|                                           <img  width="450em"   src="https://streak-stats.demolab.com?user=Nethmani&theme=vue-dark" alt="Vikash2806 Streak" />                                           |  <img width="450em" align="center" alt=" Github stats"  src="https://github-readme-stats.vercel.app/api?username=Nethmani&show_icons=true&count_private=true&theme=vue-dark" />   |
-
-
-<!--START_SECTION:waka-->
-
-<!--END_SECTION:waka-->
-
-<img width="100%"  src="https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif" />
+</div>
