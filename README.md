@@ -112,7 +112,7 @@ const pamalka = {
 <td width="50%">
 
 ### 📈 GitHub Stats
-<img src="https://github-readme-stats.vercel.app/api?username=Nethmani&show_icons=true&count_private=true&hide_border=true&title_color=58a6ff&icon_color=79c0ff&text_color=c9d1d9&bg_color=0d1117&border_radius=15" alt="Pamalka's GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=Nethmani&show_icons=true&count_private=true&hide_border=true&title_color=58a6ff&icon_color=79c0ff&text_color=c9d1d9&bg_color=0d1117&border_radius=15&cache_seconds=1800" alt="Pamalka's GitHub Stats" />
 
 </td>
 <td width="50%">
@@ -130,7 +130,7 @@ const pamalka = {
 <div align="center">
 
 ### 💻 Most Used Languages
-<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nethmani&layout=compact&hide_border=true&title_color=58a6ff&text_color=c9d1d9&bg_color=0d1117&border_radius=15&langs_count=8" alt="Top Languages" />
+<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nethmani&layout=compact&hide_border=true&title_color=58a6ff&text_color=c9d1d9&bg_color=0d1117&border_radius=15&langs_count=8&cache_seconds=1800" alt="Top Languages" />
 
 </div>
 
@@ -172,7 +172,7 @@ const pamalka = {
 - Collaborating with cross-functional teams on digital transformation projects
 
 **🔬 Final Year Research Project @ SLIIT**
-- Research Topic: .....
+- Research Topic: ___________
 - Conducting in-depth research on cutting-edge technologies
 - Developing innovative solutions to real-world problems
 - Literature review and implementation of novel algorithms/systems
