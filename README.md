@@ -115,12 +115,7 @@ const pamalka = {
 <img src="https://github-readme-stats.vercel.app/api?username=Nethmani&show_icons=true&count_private=true&hide_border=true&title_color=58a6ff&icon_color=79c0ff&text_color=c9d1d9&bg_color=0d1117&border_radius=15&cache_seconds=1800" alt="Pamalka's GitHub Stats" />
 
 </td>
-<td width="50%">
 
-### 🔥 GitHub Streak
-<img src="https://streak-stats.demolab.com?user=Nethmani&theme=dark&hide_border=true&border_radius=15&background=0D1117&ring=58a6ff&fire=79c0ff&currStreakLabel=79c0ff&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9" alt="Pamalka's GitHub Streak" />
-
-</td>
 </tr>
 </table>
 </div>
