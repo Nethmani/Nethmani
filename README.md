@@ -99,38 +99,57 @@ const pamalka = {
 
 <div align="center">
 
-### 🏆 GitHub Trophies
-<img src="https://github-profile-trophy.vercel.app/?username=Nethmani&theme=algolia&no-frame=true&no-bg=false&margin-w=4&row=2&column=4" alt="GitHub Trophies" />
+### 📌 GitHub Profile Overview
+
+<img src="https://komarev.com/ghpvc/?username=Nethmani&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+<img src="https://img.shields.io/github/followers/Nethmani?label=Followers&style=for-the-badge" />
+<img src="https://img.shields.io/github/stars/Nethmani?label=Total%20Stars&style=for-the-badge" />
 
 </div>
 
 <br/>
 
 <div align="center">
-<table>
-<tr>
-<td width="50%">
 
-### 📈 GitHub Stats
-<img src="https://github-readme-stats.vercel.app/api?username=Nethmani&show_icons=true&count_private=true&hide_border=true&title_color=58a6ff&icon_color=79c0ff&text_color=c9d1d9&bg_color=0d1117&border_radius=15&cache_seconds=1800" alt="Pamalka's GitHub Stats" />
+## 📊 GitHub Analytics
 
-</td>
-
-</tr>
-</table>
-</div>
-
-<br/>
-
+<!-- ===================== Development Activity ===================== -->
 <div align="center">
 
-### 💻 Most Used Languages
-<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nethmani&layout=compact&hide_border=true&title_color=58a6ff&text_color=c9d1d9&bg_color=0d1117&border_radius=15&langs_count=8&cache_seconds=1800" alt="Top Languages" />
+### 🧠 Development Activity
+
+<img src="https://img.shields.io/github/commit-activity/m/Nethmani/Nethmani?label=Monthly%20Commits&style=for-the-badge&color=blue" />
+<img src="https://img.shields.io/github/last-commit/Nethmani/Nethmani?label=Last%20Commit&style=for-the-badge&color=success" />
 
 </div>
 
 <br/>
 
+<!-- ===================== Primary Focus Areas ===================== -->
+<div align="center">
+
+### 🛠️ Primary Focus Areas
+
+<img src="https://img.shields.io/badge/Frontend-React-blue?style=for-the-badge&logo=react&logoColor=white" />
+<img src="https://img.shields.io/badge/Backend-Node.js-green?style=for-the-badge&logo=node.js&logoColor=white" />
+<img src="https://img.shields.io/badge/Mobile-Kotlin-orange?style=for-the-badge&logo=kotlin&logoColor=white" />
+<img src="https://img.shields.io/badge/Database-MongoDB-brightgreen?style=for-the-badge&logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/Status-Actively%20Building-success?style=for-the-badge" />
+
+</div>
+
+<br/>
+
+<!-- ===================== Profile Highlights ===================== -->
+<div align="center">
+
+### 📌 Profile Highlights
+
+<img src="https://img.shields.io/badge/Open%20Source-Enthusiast-blue?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Primary%20Stack-MERN-success?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Internship-Software%20Engineering-orange?style=for-the-badge" />
+
+</div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
